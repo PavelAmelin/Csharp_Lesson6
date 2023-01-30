@@ -1,4 +1,5 @@
-﻿Console.WriteLine("Введите коэффициенты для уравнений прямых: ");
+﻿//Находит координаты точки пересечения двух прямых
+Console.WriteLine("Введите коэффициенты для уравнений прямых: ");
 double b1 = Convert.ToDouble(Console.ReadLine());
 double k1 = Convert.ToDouble(Console.ReadLine());
 double b2 = Convert.ToDouble(Console.ReadLine());
